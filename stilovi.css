@@ -1,0 +1,4 @@
+body{background-color:#b3ffe0}
+h1,h2,h3{color:#00b3b3;text-decoration:underline;font-weight:bold}
+p,ul,ol,li{color:black;font-family: 'Times New Roman', Times, serif;font-size: 20px;}
+.centar{display:block; margin-left:auto; margin-right:auto; margin-bottom:30px}
